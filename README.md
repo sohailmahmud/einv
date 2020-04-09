@@ -5,6 +5,7 @@
 ### ** Login Details ** 
 
 Username : admin
+
 Password : admin
 
 DON'T FORGET TO CREATE A DATABASE NAMING "deped" AND IMPORT THE SQL FILE AND RUN.
