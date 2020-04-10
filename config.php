@@ -8,6 +8,7 @@ function printQuery($res){
 		print_r($res);
 	echo '</pre>';
 }
+
 $class = glob('class/*.php');
 foreach ($class as $c) {
 	require_once($c);
