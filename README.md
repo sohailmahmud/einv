@@ -1,6 +1,6 @@
 # Equipment Inventory Management System In PHP
 =================================
-## Developed By Sohail Mahmud
+## Coded By Sohail Mahmud
 
 ### ** Login Details ** 
 
