@@ -33,7 +33,6 @@ include_once('../include/banner.php');
  	   </ul>
  	 </div>
 	</nav>
-
 	<div id="right_content" >
 		<div class="panel-group">
  			 <div class="panel panel-primary">
